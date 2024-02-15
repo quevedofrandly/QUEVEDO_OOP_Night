@@ -17,7 +17,7 @@ public class Main {
         if (Misplacedletter(message)) {
             System.err.println("JEJE!!");
         } else {
-            System.out.println("uwu");
+            System.out.println("uWu");
         }
     }
 
